@@ -3,7 +3,7 @@
 Quickly search for IPs e NS from domain names listed on excel.
 
 Master @renan's original project can be found at the following link:
-	link do git hub
+	https://github.com/tota1099/found-ip-by-domain-excel
 
 This project is an implementation of DNS lookup.
 
